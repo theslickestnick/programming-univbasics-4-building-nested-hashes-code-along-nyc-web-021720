@@ -1,4 +1,4 @@
-epic_tragedy = {
+def epic_tragedy = {
    :montague => {
       :patriarch => {},
       :matriarch => {},
@@ -12,3 +12,4 @@ epic_tragedy = {
       :heroine_friends => []
    }
 }
+end
